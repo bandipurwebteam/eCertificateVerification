@@ -1,5 +1,5 @@
 # eCertificateVerification
 A simple application to verify Bandipur House issued certificates.
 
-hosted on : https://bandipurwebteam.github.io/eCertificateVerification/
+hosted on the domain: https://bandipurwebteam.github.io/eCertificateVerification/
 
